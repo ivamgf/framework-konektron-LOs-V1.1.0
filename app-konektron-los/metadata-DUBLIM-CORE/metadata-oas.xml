@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata-oas>
+   <head>
+      <metadata-standards>Dublin-Core</metadata-standards>
+      <organization>Dublin Core Metadata Initiative(DCMI)</organization>
+   </head>
+   <metadata>
+      <attributes>
+         <collaborator />
+         <coverage />
+         <creator />
+         <date />
+         <description />
+         <format />
+         <identifier />
+         <language />
+         <publisher />
+         <relationship />
+         <resource-type />
+         <rights />
+         <source />
+         <subject-matter />
+         <title />
+      </attributes>
+   </metadata>
+   <name>metadado-oas</name>
+   <version>1.0.0</version>
+</metadata-oas>
