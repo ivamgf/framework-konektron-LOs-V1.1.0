@@ -1,16 +1,20 @@
 // Utils file
 
+// Imports
+
+// Imports Modules
+
+// Imports components
+
 // Variables
-var navbar = require('./header').navbar;
-var footer = require('./footer').footer;
 
-// Const
-const project = { 
-                title: 'Framework-Konektron-LOs V1.1.0',
-                description: 'Framework for development and design of learning objects',
-                version: '1.1.0',
-                header: navbar.nav,
-                footer: footer.foot
-            };
+// Constant
+const utils = ``;
 
-module.exports.project = project;
+const params = { 
+    utils: utils
+};
+// Functions
+
+// Exports
+module.exports.params = params;

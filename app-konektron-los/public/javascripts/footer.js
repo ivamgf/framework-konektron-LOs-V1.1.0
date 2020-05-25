@@ -1,8 +1,14 @@
 // Footer file
 
+// Imports
+
+// Imports Modules
+
+// Imports components
+
 // Variables
 
-// Const
+// Constant
 const copyright = `<!-- Footer -->
                     <footer class="page-footer font-small">
 
@@ -19,4 +25,7 @@ const footer = {
     foot: copyright
 };
 
+// Functions
+
+// Exports
 module.exports.footer = footer;
