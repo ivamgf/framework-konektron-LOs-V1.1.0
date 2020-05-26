@@ -11,11 +11,11 @@
 // Constant
 const service = '';
 
-const webService = { 
+const appService = { 
     service: service
 };
 
 // Functions
 
 // Exports
-module.exports.webService = webService;
+module.exports.appService = appService;

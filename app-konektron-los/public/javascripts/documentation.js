@@ -9,7 +9,7 @@
 // Variables
 
 // Constant
-const doc = ``;
+const doc = `Documentation`;
 
 const documentation = { 
     doc: doc

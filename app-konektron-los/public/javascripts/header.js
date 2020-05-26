@@ -22,16 +22,16 @@ const head = `<nav class="navbar navbar-expand-md bg-dark navbar-dark">
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                <a class="nav-link" href="#">Home</a>
+                <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="#">Documentation</a>
+                <a class="nav-link" href="/doc">Documentation</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="#">Metadados DC</a>
+                <a class="nav-link" href="/metadatadc">Metadados DC</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="#">Metadados IEEE LOM</a>
+                <a class="nav-link" href="/metadatalom">Metadados IEEE LOM</a>
                 </li>
             </ul>
             </div>

@@ -7,14 +7,16 @@
 // Imports components
 
 // Variables
-var service = require('../services/AppService').webService;
+var service = require('../services/AppService').appService;
+var server = require('../services/WebService').webService;
 
 // Constant
 const script = '';
 
 const controller = { 
     script: script,
-    service: service.service
+    service: service.service,
+    server: server.server
 };
 // Functions
 
