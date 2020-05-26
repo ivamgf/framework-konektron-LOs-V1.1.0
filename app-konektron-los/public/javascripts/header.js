@@ -9,7 +9,7 @@
 // Variables
 
 // Constant
-const head = `<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+const head = `<nav class="navbar navbar-expand-md bg-dark navbar-dark shadow p-4 mb-4 bg-dark">
             <!-- Brand -->
             <a class="navbar-brand" href="#">Konektron - LOs</a>
 
@@ -22,16 +22,16 @@ const head = `<nav class="navbar navbar-expand-md bg-dark navbar-dark">
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link" href="/"><i class="fas fa-home"></i> Home</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/doc">Documentation</a>
+                <a class="nav-link" href="/doc"><i class="fas fa-book"></i> Documentation</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/metadatadc">Metadados DC</a>
+                <a class="nav-link" href="/metadatadc"><i class="fas fa-file-alt"></i> Metadados DC</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/metadatalom">Metadados IEEE LOM</a>
+                <a class="nav-link" href="/metadatalom"><i class="fas fa-file-alt"></i> Metadados IEEE LOM</a>
                 </li>
             </ul>
             </div>
