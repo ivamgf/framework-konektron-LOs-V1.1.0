@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon ./bin/www -e ejs,js,css,scss"
+    "start": "node ./bin/www",
+    "restart": "nodemon ./bin/www -e ejs,js,css,scss"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",

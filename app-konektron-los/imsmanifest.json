@@ -1,0 +1,14 @@
+{
+    "cmi.core.credit": "",
+    "cmi.core.entry": "",
+    "cmi.core.exit": "",
+    "cmi.core.lesson_status": "",
+    "cmi.core.student_id": "",
+    "cmi.core.student_name": "",
+    "cmi.core.score.raw": "",
+    "cmi.launch_data": "",
+    "cmi.core.lesson_mode": "",
+    "cmi.student_data.mastery_score": "",
+    "cmi.student_data.max_time_allowed": "",
+    "cmi.student_data.time_limit_action": ""
+}
